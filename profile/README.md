@@ -2,7 +2,7 @@
 
 Github page for storing NFIA repositories.
 
-For now, all repositories are private and licensed by NFIA. Repositories for template files that contain no further internal information are an exception.
+For now, all repositories are private and licensed by NFIA.
 
 <!--
 
